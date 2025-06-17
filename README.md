@@ -1,5 +1,7 @@
 # lab3
 
+![prewiew](preview.png)
+
 ## How to use this repository
 
 1. Find the corresponding folder to the platform you want to use
@@ -42,3 +44,4 @@ You can use the code in `server/` to run the server. You can modify the port in 
 
 > [!IMPORTANT]
 > Related code to the remote models is only available `general` folder, not in the platform-specific folders.
+
