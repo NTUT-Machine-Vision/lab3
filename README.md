@@ -2,9 +2,10 @@
 
 ## How to use this repository
 
-1. find the corresponding folder to the platform you want to use
-2. create a python virtual environment with requirements.yaml
-3. run the `app.py` file in the folder
+1. Find the corresponding folder to the platform you want to use
+2. Create a python virtual environment with requirements.yaml
+3. Run the `app.py` file in the folder
+4. Create [Gemini API](aistudio.google.com) key, the application will ask you to input the key when you run it
 
 ## How to add or delete a model
 
@@ -39,3 +40,5 @@ Remote models are models that can be used via API. But you still need to upload 
 
 You can use the code in `server/` to run the server. You can modify the port in the corresponding file.
 
+> [!IMPORTANT]
+> Related code to the remote models is only available `general` folder, not in the platform-specific folders.
