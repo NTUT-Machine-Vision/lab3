@@ -1,0 +1,9 @@
+numpy
+gradio
+numpy
+ultralytics
+easyocr
+google-genai
+pymupdf
+pypdf
+tensorflow
